@@ -1,1 +1,1 @@
-"# Ulam_spiral" 
+simple function generating Ulam spiral
